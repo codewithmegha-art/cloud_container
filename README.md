@@ -109,6 +109,8 @@ Development API: http://<public-ip>:3000/dev
 
 Production API: http://<public-ip>:3000/prod 
 
+I have attached the image in asset
+
 
 
 
